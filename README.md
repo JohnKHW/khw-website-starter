@@ -2,6 +2,8 @@
 
 一個美觀、現代化且完全可自定義的個人作品集網站模板，使用 Next.js、React 和 Tailwind CSS 構建。
 
+DEMO: [https://template.johnkhw.work/](https://template.johnkhw.work/)
+
 [English](#english) | [繁體中文](#繁體中文)
 
 ## ✨ 功能特色
