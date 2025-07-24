@@ -60,7 +60,7 @@ const HeroSection = () => {
         initial="hidden"
         animate="visible"
       >
-        <div className="grid lg:grid-cols-2 gap-12 items-center py-0 lg:pt-12">
+        <div className="grid lg:grid-cols-2 gap-12 items-center pt-12">
           {/* Left side - Text content */}
           <motion.div
             className="text-center lg:text-left"
